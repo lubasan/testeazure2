@@ -193,7 +193,7 @@
       "value": 843
     }
     ],
-   "maxAnomalyRatio":  0,1 , 
+   "maxAnomalyRatio":  0,1   , 
    "sensitivity": 95,
    "granularity": "monthly"
   }
